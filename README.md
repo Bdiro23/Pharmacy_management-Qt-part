@@ -1,1 +1,1 @@
-# GestionPharmacieQt
+# Pharmacie_management Qt Part
